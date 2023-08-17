@@ -1,0 +1,104 @@
+﻿
+<div class="alert alert-warning">
+    <h4> Are you sure you want to <font color="red"> <strong> remove  </strong> </font>the following car from the database?</h4>
+</div>
+
+
+
+<table class="table table-striped table-bordered table-hover text-center">
+    <tr>
+        <td>  <strong> Car ID </strong>   </td>
+        <td>  <strong> Car Maker </strong>   </td>
+        <td>  <strong> Car Model </strong>   </td>
+        <td>  <strong> Car year </strong>   </td>
+        <td>  <strong> Car odometer </strong>   </td>
+        <td>  <strong> Car VIN number </strong>   </td>
+        <td>  <strong> Car color </strong>   </td>
+        <td>  <strong> Price       </strong>   </td>
+
+    </tr>
+    <tr>
+        <td> @ViewBag.car.CarID       </td>
+        <td> @ViewBag.car.CarMaker    </td>
+        <td> @ViewBag.car.CarModel    </td>
+        <td> @ViewBag.car.Year        </td>
+        <td> @ViewBag.car.Odometer.ToString("#,###,###") </td>
+        <td> @ViewBag.car.CarVinNumber</td>
+        <td> @ViewBag.car.CarColor    </td>
+        <td> $ @ViewBag.car.Price.ToString("#,###,###") </td>
+
+    </tr>
+</table>
+<br />
+<div class="row">
+    <div class="col-md-1">
+        @if(ViewBag.imageCount!= 0)
+        {
+            <h4> <strong> <u>Images</u> </strong> </h4>
+        }
+    </div>
+    <div class="col-md-9">  </div>
+    <div class="col-md-2">
+        <form action="/BuyCar/RemoveCar" method="post">
+
+            <input type="hidden" name="RemoveThisCarID" id="RemoveThisCarID" value="@ViewBag.car.CarID" />
+
+            <input type=button onClick="parent.location='/BuyCar/BuyCarList'" name="cancel" id="cancel" value="Cancel">
+
+            &ensp;
+            <input type="submit" value="Delete" class="btn-danger" onclick="return confirm('Are you sure you want delete this item?')">
+        </form>
+    </div>
+</div>
+
+
+
+<table class="table text-center align-middle table-borderless table-condensed">
+    @{
+        int i = 0;
+        int line;
+    }
+
+    @for (int j = 0; j < @ViewBag.ImageLineNumbers; j++)
+    {
+        line = j;
+        <tr>
+            @while (i < @ViewBag.ImageNumbers)
+            {
+                if (i != 0 && i % 5 == 0 && line!=j)
+                {
+                    break;
+                }
+                
+                else
+                {
+                    if (ViewBag.imageCount!= 0)
+                    {
+                        <td class="cell-width-height">
+                            <img src="@("~/UploadedImage/" + ViewBag.car.ImageName[i])" asp-append-version="true" class="thumbnail-edit-size" />
+                        </td>
+                    }
+                    i++;
+                    line++;
+                }
+            }
+        </tr>
+    }
+</table>
+@if(ViewBag.imageCount>10)
+{
+    <div class="row">
+    <div class="col-md-10">  </div>
+    <div class="col-md-2">
+        <form action="/BuyCar/RemoveCar" method="post">
+
+            <input type="hidden" name="RemoveThisCarID" id="RemoveThisCarID" value="@ViewBag.car.CarID" />
+
+            <input type=button onClick="parent.location='/BuyCar/BuyCarList'" name="cancel" id="cancel" value="Cancel">
+
+            &ensp;
+                <input type="submit" value="Delete" class="btn-danger" onclick="confirmationDelete" />
+        </form>
+    </div>
+</div>
+}

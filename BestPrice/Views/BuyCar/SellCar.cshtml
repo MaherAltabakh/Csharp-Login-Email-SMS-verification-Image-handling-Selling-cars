@@ -1,0 +1,61 @@
+﻿@model BestPrice.Models.Car
+
+<h3> Please add you car details:</h3>
+
+<div class="row">
+
+    <div class="col-lg-5">
+        <form asp-controller="BuyCar" asp-action="AddCarToSell" enctype="multipart/form-data">
+
+            <div class="form-group">
+                <label for="CarMaker" class="control-label"> Car Maker <font color="gray"> (required) </font> </label><br />
+                <input type="text" name="CarMaker" id="CarMaker" required /><br />
+            </div>
+
+            <div class="form-group">
+                <label for="CarModel" class="control-label"> Car Model<font color="gray"> (required) </font></label><br />
+                <input type="text" name="CarModel" id="CarModel" required /><br />
+            </div>
+
+            <div class="form-group">
+                <label for="Year" class="control-label"> Car Year<font color="gray"> (required) </font></label><br />
+                <input type="number" name="Year" id="Year" max="@DateTime.Now.Year" required /><br />
+            </div>
+
+            <div class="form-group">
+                <label for="Odometer" class="control-label"> Odometer<font color="gray"> (required) </font></label><br />
+                <input type="number" name="Odometer" id="Odometer" required /><br />
+            </div>
+
+            <div class="form-group">
+                <label for="CarVinNumber" class="control-label"> Car Vin Number<font color="gray"> (Optional)</font></label><br />
+                <input type="text" name="CarVinNumber" id="CarVinNumber" /><br />
+            </div>
+
+            <div class="form-group">
+                <label for="CarColor" class="control-label"> Car Color<font color="gray"> (required) </font></label><br />
+                <input type="text" name="CarColor" id="CarColor" required /><br />
+            </div>
+
+            <div class="form-group">
+                <label for="Price" class="control-label"> Price ($)<font color="gray"> (required) </font></label><br />
+                <input type="number" name="Price" id="Price" required /><br />
+            </div>
+
+
+                <div class="form-group">
+                <label for="ImageFile" class="control-label">Image<font color="gray"> (Optional)</font></label><br />
+                    <input type="file" name="ImageFile" id="ImageFile" accept="image/*" multiple/>
+                </div>
+
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Post My car" />
+                &ensp;
+                <input type="reset" value="Reset" />
+            </div>
+
+        </form>
+    </div>
+</div>

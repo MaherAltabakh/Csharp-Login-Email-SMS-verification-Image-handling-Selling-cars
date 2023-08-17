@@ -1,0 +1,1729 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BestPrice.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BestPrice.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\02229542852397.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\02229542852397.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\02230552213688.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\02230552213688.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable - Copy2337018779967.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable - Copy2337018779967.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable - Copy2337389284901.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable - Copy2337389284901.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable2327383283445.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable2327383283445.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable2335474496815.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable2335474496815.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable2336048444742.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable2336048444742.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable2337018789863.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\109-1091582_free-coloring-pages-of-jerry-the-minion-printable2337018789863.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\109-12325104439321.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\109-12325104439321.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\12306415600853.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\12306415600853.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\12310110741232.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\12310110741232.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\1C6RR6MT1GS297869-16631252421150002230174759935.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\1C6RR6MT1GS297869-16631252421150002230174759935.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\22310110861537.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\22310110861537.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\2C3CDXCT8MH628636-16626509152630002215379771276.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\2C3CDXCT8MH628636-16626509152630002215379771276.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\2C3CDXCT8MH628636-16626509318510002259256326944.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\2C3CDXCT8MH628636-16626509318510002259256326944.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\32310110880754.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\32310110880754.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\32322326086670.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\32322326086670.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\42306415728022.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\42306415728022.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\42310110900547.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\42310110900547.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\42322326199557.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\42322326199557.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\52306415753379.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\52306415753379.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\52310110916294.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\52310110916294.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\52322326240482.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\52322326240482.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\62322326320787.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\62322326320787.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\72306415786683.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\72306415786683.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\72322326357148.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\72322326357148.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\82322326413412.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\82322326413412.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\8b2ff15c553faf5fde4c128891c64205 - Copy2337018629666.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\8b2ff15c553faf5fde4c128891c64205 - Copy2337018629666.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\8b2ff15c553faf5fde4c128891c64205 - Copy2337389137867.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\8b2ff15c553faf5fde4c128891c64205 - Copy2337389137867.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\8b2ff15c553faf5fde4c128891c64205 - Copy2338229844057.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\8b2ff15c553faf5fde4c128891c64205 - Copy2338229844057.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\8b2ff15c553faf5fde4c128891c642052327383180380.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\8b2ff15c553faf5fde4c128891c642052327383180380.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\8b2ff15c553faf5fde4c128891c642052335474423588.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\8b2ff15c553faf5fde4c128891c642052335474423588.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\8b2ff15c553faf5fde4c128891c642052336048431705.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\8b2ff15c553faf5fde4c128891c642052336048431705.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\8b2ff15c553faf5fde4c128891c642052337018759917.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\8b2ff15c553faf5fde4c128891c642052337018759917.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\8b2ff2325104371617.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\8b2ff2325104371617.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\AI Logo2233413191368.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\AI Logo2233413191368.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Arabic language logo2227047896049.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\Arabic language logo2227047896049.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Arabic language logo2233413224464.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\Arabic language logo2233413224464.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\BMW2233413345265.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\BMW2233413345265.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\BootStrap Logo2227048002702.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\BootStrap Logo2227048002702.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\BootStrap Logo2233413456318.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\BootStrap Logo2233413456318.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Css Logo2227048030056.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\Css Logo2227048030056.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Css Logo2233413483198.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\Css Logo2233413483198.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Electric-machines Logo2227048245727.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Electric-machines Logo2227048245727.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Electric-machines Logo2233413596833.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Electric-machines Logo2233413596833.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Electric-machines Logo2254405222618.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Electric-machines Logo2254405222618.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\English Logo2227048270638.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\English Logo2227048270638.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\English Logo2233413629447.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\English Logo2233413629447.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\English Logo2254405238392.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\English Logo2254405238392.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\English Logo2256225945683.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\English Logo2256225945683.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\HTML5 Logo2227048295077.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\HTML5 Logo2227048295077.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\HTML5 Logo2233413655257.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\HTML5 Logo2233413655257.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\HTML5 Logo2254405247053.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\HTML5 Logo2254405247053.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\HTML5 Logo2256225963187.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\HTML5 Logo2256225963187.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230316-WA00252322326432527.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230316-WA00252322326432527.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230316-WA00262322326453763.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230316-WA00262322326453763.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230316-WA00332322326496909.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230316-WA00332322326496909.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230316-WA00342322326600168.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230316-WA00342322326600168.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230613-WA00092306270173281.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230613-WA00092306270173281.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230613-WA00092337112842759.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230613-WA00092337112842759.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230613-WA00092337216292772.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230613-WA00092337216292772.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230613-WA00092349520804579.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230613-WA00092349520804579.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\IMG-20230613-WA00092351144635753.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\IMG-20230613-WA00092351144635753.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\KMHGC4DD8DU248839-16625226560390002230410286796.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\KMHGC4DD8DU248839-16625226560390002230410286796.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Korean Logo2227048311850.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\Korean Logo2227048311850.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Korean Logo2233413677660.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\Korean Logo2233413677660.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\M0130-Thumb-300x3002327383336637.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\M0130-Thumb-300x3002327383336637.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\M0130-Thumb-300x3002335474552767.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\M0130-Thumb-300x3002335474552767.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\M0130-Thumb-300x3002337018874263.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\M0130-Thumb-300x3002337018874263.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\ML Logo2208416056274.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\ML Logo2208416056274.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\ML Logo2227048352382.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\ML Logo2227048352382.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\ML Logo2233413732545.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\ML Logo2233413732545.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\ML Logo2254405274724.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\ML Logo2254405274724.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Matlab Logo2227048326737.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Matlab Logo2227048326737.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Matlab Logo2233413704232.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Matlab Logo2233413704232.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Matlab Logo2254405258425.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Matlab Logo2254405258425.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\MerCat-coloring-page2327383344708.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\MerCat-coloring-page2327383344708.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\MerCat-coloring-page2335474559945.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\MerCat-coloring-page2335474559945.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\MerCat-coloring-page2337018886209.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\MerCat-coloring-page2337018886209.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Mn6KH91UVTeRflmrZc2YEuCnfv3SHQASdzJ6loy5-E8=_plaintext_6381459777824528782300058344793.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Mn6KH91UVTeRflmrZc2YEuCnfv3SHQASdzJ6loy5-E8=_plaintext_6381459777824528782300058344793.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Mn6KH91UVTeRflmrZc2YEuCnfv3SHQASdzJ6loy5-E8=_plaintext_6381459777824528782307260273249.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Mn6KH91UVTeRflmrZc2YEuCnfv3SHQASdzJ6loy5-E8=_plaintext_6381459777824528782307260273249.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Mn6KH91UVTeRflmrZc2YEuCnfv3SHQASdzJ6loy5-E8=_plaintext_6381459777824528782322326784577.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Mn6KH91UVTeRflmrZc2YEuCnfv3SHQASdzJ6loy5-E8=_plaintext_6381459777824528782322326784577.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\NewMuslim Logo2208416068672.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\NewMuslim Logo2208416068672.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\NewMuslim Logo2227048370485.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\NewMuslim Logo2227048370485.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\NewMuslim Logo2233413762855.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\NewMuslim Logo2233413762855.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\NewMuslim Logo2254405287910.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\NewMuslim Logo2254405287910.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\NewMuslim Logo2256226003993.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\NewMuslim Logo2256226003993.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Power Systems Logo2208416077335.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Power Systems Logo2208416077335.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Power Systems Logo2227048386525.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Power Systems Logo2227048386525.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Power Systems Logo2233413788001.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Power Systems Logo2233413788001.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Power Systems Logo2254405298332.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Power Systems Logo2254405298332.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Power Systems Logo2256226046168.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Power Systems Logo2256226046168.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Python Logo2227048419741.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Python Logo2227048419741.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Python Logo2233413818083.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Python Logo2233413818083.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Python Logo2254405312364.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Python Logo2254405312364.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Python Logo2256226060076.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Python Logo2256226060076.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Quran Logo2227048498223.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Quran Logo2227048498223.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Quran Logo2233413872017.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Quran Logo2233413872017.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\TSql Logo2227048511650.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\TSql Logo2227048511650.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\TSql Logo2233413911524.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\TSql Logo2233413911524.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\TSql Logo2254405339815.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\TSql Logo2254405339815.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Tknr-pJj3EVzdUHVZOjH0gByrmbECUSikkK43V462Q=_plaintext_6381459777758142822307288428978.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Tknr-pJj3EVzdUHVZOjH0gByrmbECUSikkK43V462Q=_plaintext_6381459777758142822307288428978.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Untitled.mp4",
+      "PackagePath": "staticwebassets\\UploadedImage\\Untitled.mp4"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\W-_wfXSZp3_RIqQSf0OB_PnQse5kmXnHKvy-UXSHhVM=_plaintext_6381459777823031542322516738842.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\W-_wfXSZp3_RIqQSf0OB_PnQse5kmXnHKvy-UXSHhVM=_plaintext_6381459777823031542322516738842.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Yilamz auto trade Logo.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Yilamz auto trade Logo.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Yilamz auto trade Logo2208416130957.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Yilamz auto trade Logo2208416130957.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Yilamz auto trade Logo2227048567538.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Yilamz auto trade Logo2227048567538.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Yilamz auto trade Logo2233413995761.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Yilamz auto trade Logo2233413995761.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Yilamz auto trade Logo2254405365070.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Yilamz auto trade Logo2254405365070.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Yilamz auto trade Logo2256226080403.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Yilamz auto trade Logo2256226080403.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\Yilamz auto trade Logo2258354781595.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\Yilamz auto trade Logo2258354781595.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\a (1)2340212776716.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\a (1)2340212776716.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\aBMW62227047830250.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\aBMW62227047830250.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\aBMW62233413159028.jpeg",
+      "PackagePath": "staticwebassets\\UploadedImage\\aBMW62233413159028.jpeg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\b (3)2340212970878.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\b (3)2340212970878.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\b (4)2340212984495.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\b (4)2340212984495.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\b (5)2340213027830.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\b (5)2340213027830.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\b (7)2340213060371.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\b (7)2340213060371.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\bkg.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\bkg.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\bkg2233413261440.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\bkg2233413261440.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\chicago.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\chicago.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\color2325104446592.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\color2325104446592.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\color2325104454768.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\color2325104454768.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-hello-kitty-36792 - Copy2337018798960.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-hello-kitty-36792 - Copy2337018798960.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-hello-kitty-36792 - Copy2337389293932.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-hello-kitty-36792 - Copy2337389293932.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-hello-kitty-367922327383292417.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-hello-kitty-367922327383292417.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-hello-kitty-367922335474505565.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-hello-kitty-367922335474505565.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-hello-kitty-367922336048452334.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-hello-kitty-367922336048452334.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-hello-kitty-367922337018808022.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-hello-kitty-367922337018808022.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-little-girl-966432327383296872.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-little-girl-966432327383296872.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-little-girl-966432335474511085.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-little-girl-966432335474511085.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-little-girl-966432337018818059.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-little-girl-966432337018818059.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\coloring-little-girl-966432337389300932.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\coloring-little-girl-966432337389300932.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\dogs2327383319302.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\dogs2327383319302.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\dogs2335474536913.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\dogs2335474536913.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\dogs2337018848460.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\dogs2337018848460.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\download2227048117971.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\download2227048117971.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\download2233413512912.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\download2233413512912.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\download2254405064845.png",
+      "PackagePath": "staticwebassets\\UploadedImage\\download2254405064845.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\free-printable-lightning-mcqueen-coloring-pages-1024x7682327383324340.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\free-printable-lightning-mcqueen-coloring-pages-1024x7682327383324340.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\free-printable-lightning-mcqueen-coloring-pages-1024x7682335474542423.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\free-printable-lightning-mcqueen-coloring-pages-1024x7682335474542423.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\free-printable-lightning-mcqueen-coloring-pages-1024x7682337018858405.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\free-printable-lightning-mcqueen-coloring-pages-1024x7682337018858405.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\free-printable-lightning-mcqueen-coloring-pages-1024x7682337389330371.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\free-printable-lightning-mcqueen-coloring-pages-1024x7682337389330371.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\jk1zFqn9ygAYfmpKCg5li4ec1utsc11mlbcJfVQdOAE=_plaintext_6381459777802259222300058307655.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\jk1zFqn9ygAYfmpKCg5li4ec1utsc11mlbcJfVQdOAE=_plaintext_6381459777802259222300058307655.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\jk1zFqn9ygAYfmpKCg5li4ec1utsc11mlbcJfVQdOAE=_plaintext_6381459777802259222306552567761.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\jk1zFqn9ygAYfmpKCg5li4ec1utsc11mlbcJfVQdOAE=_plaintext_6381459777802259222306552567761.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\jk1zFqn9ygAYfmpKCg5li4ec1utsc11mlbcJfVQdOAE=_plaintext_6381459777802259222322326647483.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\jk1zFqn9ygAYfmpKCg5li4ec1utsc11mlbcJfVQdOAE=_plaintext_6381459777802259222322326647483.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\la.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\la.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\ny.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\ny.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\tY8stAHakg8udC6O-ndAJ_H1WeN4kx3O7GbHw47I5VM=_plaintext_6381459777759639002307314362073.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\tY8stAHakg8udC6O-ndAJ_H1WeN4kx3O7GbHw47I5VM=_plaintext_6381459777759639002307314362073.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\turkish Logo2227048530167.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\turkish Logo2227048530167.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\turkish Logo2233413971076.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\turkish Logo2233413971076.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\turkish Logo2254405350186.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\turkish Logo2254405350186.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\wlTw3E_V8aJKzYb3orsN0II1RqFeZrcQHKen5VRqzjk=_plaintext_6381459777849619282322326822557.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\wlTw3E_V8aJKzYb3orsN0II1RqFeZrcQHKen5VRqzjk=_plaintext_6381459777849619282322326822557.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\wlTw3E_V8aJKzYb3orsN0II1RqFeZrcQHKen5VRqzjk=_plaintext_6381459777849619282322516764498.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\wlTw3E_V8aJKzYb3orsN0II1RqFeZrcQHKen5VRqzjk=_plaintext_6381459777849619282322516764498.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x1024 - Copy2337018898822.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x1024 - Copy2337018898822.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x10242327383352201.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x10242327383352201.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x10242335474567276.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x10242335474567276.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x10242336048459862.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x10242336048459862.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x10242337018985064.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\wonder-day-lilo-and-stitch-23-745x10242337018985064.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\x-3wqlCIKXm4vNqg7ZK5KuVpxm2w6X5hCSJhAvQ9Owo=_plaintext_6381459777824028932300058376778.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\x-3wqlCIKXm4vNqg7ZK5KuVpxm2w6X5hCSJhAvQ9Owo=_plaintext_6381459777824028932300058376778.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\x-3wqlCIKXm4vNqg7ZK5KuVpxm2w6X5hCSJhAvQ9Owo=_plaintext_6381459777824028932322326852287.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\x-3wqlCIKXm4vNqg7ZK5KuVpxm2w6X5hCSJhAvQ9Owo=_plaintext_6381459777824028932322326852287.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\x-3wqlCIKXm4vNqg7ZK5KuVpxm2w6X5hCSJhAvQ9Owo=_plaintext_6381459777824028932322516788393.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\x-3wqlCIKXm4vNqg7ZK5KuVpxm2w6X5hCSJhAvQ9Owo=_plaintext_6381459777824028932322516788393.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\أ2301323542632.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\أ2301323542632.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\أ2303056817802.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\أ2303056817802.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\أ2339244930531.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\أ2339244930531.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\UploadedImage\\أ2339360876893.jpg",
+      "PackagePath": "staticwebassets\\UploadedImage\\أ2339360876893.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-dark.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app-rtl.css",
+      "PackagePath": "staticwebassets\\css\\app-rtl.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\app-rtl.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app-rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\css\\app.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\app.min.css.map",
+      "PackagePath": "staticwebassets\\css\\app.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\bootstrap-dark.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\bootstrap-dark.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\bootstrap-dark.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-dark.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\icons.css",
+      "PackagePath": "staticwebassets\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\css\\icons.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\icons.min.css.map",
+      "PackagePath": "staticwebassets\\css\\icons.min.css.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\data\\scroller-demo.json",
+      "PackagePath": "staticwebassets\\data\\scroller-demo.json"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Pe-icon-7-stroke.eot",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Pe-icon-7-stroke.svg",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Pe-icon-7-stroke.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Pe-icon-7-stroke.woff",
+      "PackagePath": "staticwebassets\\fonts\\Pe-icon-7-stroke.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\dropify.eot",
+      "PackagePath": "staticwebassets\\fonts\\dropify.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\dropify.svg",
+      "PackagePath": "staticwebassets\\fonts\\dropify.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\dropify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\dropify.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\dropify.woff",
+      "PackagePath": "staticwebassets\\fonts\\dropify.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\summernote.eot",
+      "PackagePath": "staticwebassets\\fonts\\summernote.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\summernote.ttf",
+      "PackagePath": "staticwebassets\\fonts\\summernote.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\summernote.woff",
+      "PackagePath": "staticwebassets\\fonts\\summernote.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\typicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\typicons.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\typicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\typicons.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\typicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\typicons.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\typicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\typicons.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\fonts\\weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\big\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\big\\bg.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\big\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\big\\img1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\flags\\french.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\french.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\10.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\11.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\12.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\2.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\3.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\4.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\5.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\6.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\7.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\8.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\9.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\layouts\\dark.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\dark.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\layouts\\light.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\light.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\layouts\\rtl.png",
+      "PackagePath": "staticwebassets\\images\\layouts\\rtl.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\logo-car.png",
+      "PackagePath": "staticwebassets\\images\\logo-car.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\images\\logo-light.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\logo-sm.ico",
+      "PackagePath": "staticwebassets\\images\\logo-sm.ico"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\plugins\\clear.png",
+      "PackagePath": "staticwebassets\\images\\plugins\\clear.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\plugins\\jstree.png",
+      "PackagePath": "staticwebassets\\images\\plugins\\jstree.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\plugins\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\plugins\\loading.gif"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\plugins\\multiple-arrow.png",
+      "PackagePath": "staticwebassets\\images\\plugins\\multiple-arrow.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\small\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\bg.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\small\\bg1.png",
+      "PackagePath": "staticwebassets\\images\\small\\bg1.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\small\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\img1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\small\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\img2.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\small\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\small\\img3.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-10.jpg.png",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-10.jpg.png"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\images\\users\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\images\\users\\avatar-9.jpg"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\Mine.js",
+      "PackagePath": "staticwebassets\\js\\Mine.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\Mine.min.js",
+      "PackagePath": "staticwebassets\\js\\Mine.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\Mine.min.js.map",
+      "PackagePath": "staticwebassets\\js\\Mine.min.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\js\\app.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\app.min.js.map",
+      "PackagePath": "staticwebassets\\js\\app.min.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\calendar.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\calendar.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\chartist.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\chartist.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\chartjs.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\chartjs.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\coming-soon.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\coming-soon.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\dashboard.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\datatables.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\datatables.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\easy-pie-chart.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\easy-pie-chart.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\flot.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\flot.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\form-advanced.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-advanced.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\form-quilljs.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-quilljs.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\form-summernote.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-summernote.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\form-validation.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-validation.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\form-wizard.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-wizard.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\form-xeditable.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\form-xeditable.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\gallery.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\gallery.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\google-maps.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\google-maps.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\jquery.chat.js",
+      "PackagePath": "staticwebassets\\js\\pages\\jquery.chat.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\jquery.todo.js",
+      "PackagePath": "staticwebassets\\js\\pages\\jquery.todo.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\morris.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\morris.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\nestable.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\nestable.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\peity.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\peity.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\range-sliders.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\range-sliders.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\responsive-table.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\responsive-table.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\sparkline.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\sparkline.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\sweet-alerts.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\sweet-alerts.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\tabledit.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\tabledit.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\toastr.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\toastr.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\vector-maps.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\vector-maps.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\pages\\widgets.init.js",
+      "PackagePath": "staticwebassets\\js\\pages\\widgets.init.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\vendor.js",
+      "PackagePath": "staticwebassets\\js\\vendor.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\vendor.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\js\\vendor.min.js.map",
+      "PackagePath": "staticwebassets\\js\\vendor.min.js.map"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-colorpicker\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-colorpicker\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-colorpicker\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-colorpicker\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-datepicker\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-datepicker\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-tagsinput\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-tagsinput\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-tagsinput\\bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-timepicker\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-timepicker\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-timepicker\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-timepicker\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\chart-js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\libs\\chart-js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\chartist\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\libs\\chartist\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\chartist\\chartist.min.css",
+      "PackagePath": "staticwebassets\\libs\\chartist\\chartist.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\libs\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\custombox\\custombox.min.css",
+      "PackagePath": "staticwebassets\\libs\\custombox\\custombox.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\custombox\\custombox.min.js",
+      "PackagePath": "staticwebassets\\libs\\custombox\\custombox.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\libs\\datatables\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\libs\\datatables\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\dataTables.fixedheader.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\dataTables.fixedheader.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\dataTables.scroller.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\dataTables.scroller.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\fixedheader.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\libs\\datatables\\fixedheader.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\libs\\datatables\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\libs\\datatables\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\datatables\\scroller.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\libs\\datatables\\scroller.bootstrap4.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\dropzone\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\libs\\dropzone\\dropzone.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\dropzone\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\libs\\dropzone\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\easy-pie-chart\\jquery.easypiechart.min.js",
+      "PackagePath": "staticwebassets\\libs\\easy-pie-chart\\jquery.easypiechart.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\flot-charts\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\libs\\flot-charts\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\flot-charts\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\libs\\flot-charts\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\flot-charts\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\libs\\flot-charts\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\flot-charts\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\libs\\flot-charts\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\flot-charts\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\libs\\flot-charts\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\flot-charts\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\libs\\flot-charts\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\flot-charts\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\libs\\flot-charts\\jquery.flot.time.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\flot-charts\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\libs\\flot-charts\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\fullcalendar\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\libs\\fullcalendar\\fullcalendar.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\fullcalendar\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\libs\\fullcalendar\\fullcalendar.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\libs\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\ion-rangeslider\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\libs\\ion-rangeslider\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\ion-rangeslider\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\libs\\ion-rangeslider\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\libs\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-countdown\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-countdown\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-mask-plugin\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-mask-plugin\\jquery.mask.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-quicksearch\\jquery.quicksearch.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-quicksearch\\jquery.quicksearch.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-scrollto\\jquery.scrollTo.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-scrollto\\jquery.scrollTo.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-steps\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-steps\\jquery.steps.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-tabledit\\jquery.tabledit.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-tabledit\\jquery.tabledit.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-us-merc-en.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-us-merc-en.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jquery-vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\libs\\jquery-vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\jszip\\jszip.min.js",
+      "PackagePath": "staticwebassets\\libs\\jszip\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\katex\\katex.min.js",
+      "PackagePath": "staticwebassets\\libs\\katex\\katex.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\libs\\magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\libs\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\moment\\moment.min.js",
+      "PackagePath": "staticwebassets\\libs\\moment\\moment.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\morris-js\\morris.min.js",
+      "PackagePath": "staticwebassets\\libs\\morris-js\\morris.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\multiselect\\jquery.multi-select.js",
+      "PackagePath": "staticwebassets\\libs\\multiselect\\jquery.multi-select.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\multiselect\\multi-select.css",
+      "PackagePath": "staticwebassets\\libs\\multiselect\\multi-select.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\nestable2\\jquery.nestable.min.css",
+      "PackagePath": "staticwebassets\\libs\\nestable2\\jquery.nestable.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\nestable2\\jquery.nestable.min.js",
+      "PackagePath": "staticwebassets\\libs\\nestable2\\jquery.nestable.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\pdfmake\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\libs\\pdfmake\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\pdfmake\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\libs\\pdfmake\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\libs\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\libs\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\libs\\quill\\quill.core.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\libs\\quill\\quill.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\libs\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\libs\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\rwd-table\\rwd-table.min.css",
+      "PackagePath": "staticwebassets\\libs\\rwd-table\\rwd-table.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\rwd-table\\rwd-table.min.js",
+      "PackagePath": "staticwebassets\\libs\\rwd-table\\rwd-table.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\libs\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\libs\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\simple-text-rotator\\jquery.simple-text-rotator.min.js",
+      "PackagePath": "staticwebassets\\libs\\simple-text-rotator\\jquery.simple-text-rotator.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\summernote\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\libs\\summernote\\summernote-bs4.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\summernote\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\libs\\summernote\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\libs\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\switchery\\switchery.min.css",
+      "PackagePath": "staticwebassets\\libs\\switchery\\switchery.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\switchery\\switchery.min.js",
+      "PackagePath": "staticwebassets\\libs\\switchery\\switchery.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\libs\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\libs\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\x-editable\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\libs\\x-editable\\bootstrap-editable.css"
+    },
+    {
+      "Id": "D:\\IT Learning\\Full Stack Web Developer\\Project\\2- Backend - C#\\Done\\Selling cars - Login Email SMS verification - Image handling\\BestPrice\\wwwroot\\libs\\x-editable\\bootstrap-editable.min.js",
+      "PackagePath": "staticwebassets\\libs\\x-editable\\bootstrap-editable.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BestPrice.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BestPrice.props",
+      "PackagePath": "build\\BestPrice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BestPrice.props",
+      "PackagePath": "buildMultiTargeting\\BestPrice.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BestPrice.props",
+      "PackagePath": "buildTransitive\\BestPrice.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

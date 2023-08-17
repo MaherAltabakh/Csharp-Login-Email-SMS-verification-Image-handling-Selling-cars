@@ -1,0 +1,136 @@
+﻿
+<div class="row">
+    <div class="col-lg-4">
+        <h3>Please update the car fields:</h3>
+    </div>
+
+    <div class="col-lg-5">
+    </div>
+
+</div>
+
+
+
+
+
+<form action="/BuyCar/SaveUpdatedCar" method="post" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-lg-3">
+            <br />
+            <br />
+            <br />
+
+            <label for="CarID"> Car ID Number:</label><br />
+            <input type="text" name="CarID" id="CarID" value="@ViewBag.car.CarID" readonly /> <br />
+            <br />
+            <label for="CarMaker"> Car Maker:</label><br />
+            <input type="text" name="CarMaker" id="CarMaker" value="@ViewBag.car.CarMaker" /><br />
+            <br />
+
+            <label for="CarModel"> Car Model:</label><br />
+            <input type="text" name="CarModel" id="CarModel" value="@ViewBag.car.CarModel" /><br />
+            <br />
+
+            <label for="Year"> Car Year:</label><br />
+            <input type="number" name="Year" id="Year" value="@ViewBag.car.Year" max="@DateTime.Now.Year" /><br />
+            <br />
+
+            <div class="form-group">
+                <label for="ImageFile" class="control-label">Add more Images</label><br />
+                <input type="file" name="ImageFile" id="ImageFile" accept="image/*" multiple />
+            </div>
+            <br />
+            <input type="submit" value="Submit changes" class="btn btn-primary " onclick="return confirmEdit()" />
+            &ensp;
+            <input type="reset" value="Reset" class="btn btn-primary color-reset-button" />
+        
+        </div>
+        <div class="col-lg-2">
+            <br />
+            <br />
+            <br />
+
+            <label for="Odometer"> Odometer:</label><br />
+            <input type="number" name="Odometer" id="Odometer" value="@ViewBag.car.Odometer" /><br />
+            <br />
+
+            <label for="CarVinNumber"> Car Vin Number:</label><br />
+            <input type="text" name="CarVinNumber" id="CarVinNumber" value="@ViewBag.car.CarVinNumber" /><br />
+            <br />
+
+            <label for="CarColor"> Car Color:</label><br />
+            <input type="text" name="CarColor" id="CarColor" value="@ViewBag.car.CarColor" /><br />
+            <br />
+
+             <div class="form-group">
+                <label for="Price" class="control-label"> Price ($)</label><br />
+                <input type="number" name="Price" id="Price" value="@ViewBag.car.Price" /><br />
+            </div>
+
+        </div>
+        
+        <script type="text/javascript">
+            function confirmEdit() {
+                return confirm("Are you sure you want to Update this car?");
+            }
+        </script>
+
+
+        <script type="text/javascript">
+            function confirmDelete()
+            {
+                return confirm("Are you sure you want to delete this Image?");
+            }
+        </script>
+
+       
+        <div class="col-lg-7">
+            <table class="table text-center align-middle table-borderless table-condensed">
+                @{
+                    int i = 0;
+                    int line;
+                }
+
+                @for (int j = 0; j < @ViewBag.ImageLineNumbers; j++)
+                {
+                    line = j;
+                    <tr>
+                        @while (i < @ViewBag.ImageNumbers)
+                        {
+                            if (i != 0 && i % 3 == 0 && line != j)
+                            {
+                                break;
+                            }
+                            else
+                            {
+                                <td class="cell-width-height width-try">
+                                        <img src="@("~/UploadedImage/" + ViewBag.car.ImageName[i])" asp-append-version="true" class="thumbnail-edit-size" /><br>
+                                    <a href="/BuyCar/EditImage?imageName=@ViewBag.car.ImageName[i]">Edit </a> &emsp;
+                                    <a href="/BuyCar/RemoveImage?ImageName=@ViewBag.car.ImageName[i]" onclick="return confirmDelete()">Remove </a>
+                                </td>
+                                i++;
+                                line++;
+                            }
+                        }
+                    </tr>
+                }
+            </table>
+        </div>
+
+    </div>
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+<!--=======================================================-->

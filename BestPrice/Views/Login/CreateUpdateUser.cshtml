@@ -1,0 +1,109 @@
+﻿@{
+Layout = "_Login";
+}
+ @if (ViewBag.errorMessage != null)
+{
+    <div class="alert alert-danger" role="alert">
+        @foreach (string error in ViewBag.errorMessage)
+        {
+            <h4 style="color: red"> @error </h4>
+        }
+    </div>
+}
+
+<div class="account-pages my-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6 col-xl-5">
+                <div class="card mt-4">
+                    <div class="card-header bg-img p-2 position-relative">
+                        <div class="bg-overlay"></div>
+                            @if (ViewBag.User.UserID != 0)
+                            {
+                                <h4 class="text-white text-center mb-0">Update your profile</h4>
+                            }
+                            else
+                            {
+                                <h4 class="text-white text-center mb-0">Create a new Account</h4>
+                            }
+                    </div>
+                    <div class="card-body p-4 mt-2">
+                        <form asp-controller="Login" asp-action="SaveUpdateUser" class="p-3">
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" required="" placeholder="First Name" name="firstName" id="firstName" value="@ViewBag.User.FirstName">
+                            </div>
+
+                             <div class="form-group mb-3">
+                                <input class="form-control" type="text" required="" placeholder="Last Name" name="lastName" id="lastName" value="@ViewBag.User.LastName">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" required="" placeholder="Address Line 1" name="AddressLine1" id="AddressLine1" value="@ViewBag.User.AddressLine1">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" placeholder="Address Line 2" name="AddressLine2" id="AddressLine2" value="@ViewBag.User.AddressLine2">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" required="" placeholder="City" name="City" id="City" value="@ViewBag.User.City">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" required="" placeholder="State" name="State" id="State" value="@ViewBag.User.State">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="text" required="" placeholder="Zip Code" name="ZipCode" id="ZipCode" value="@ViewBag.User.ZipCode">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="tel" required="" placeholder="Phone Number 1123-123-1234" name="Phone" id="Phone" value="@ViewBag.User.Phone">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input class="form-control" type="email" required="" placeholder="Email" name="email" id="email" value="@ViewBag.User.Email">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <input id="Password" name="Password" class="form-control ShowPass" type="password" required="" placeholder="Password" value="@ViewBag.User.Password">
+                            </div>
+
+                            <div class="form-group mb-3">
+                                <div class="custom-control custom-checkbox">
+                                    <input type="checkbox" class="custom-control-input" id="checkbox-signin" onclick="ShowPassword()">
+                                    <label class="custom-control-label" for="checkbox-signin">Show Password</label>
+                                </div>
+                            </div>
+
+                            <div class="form-group text-center mt-5 mb-4">
+                                @if (ViewBag.User.UserID != 0)
+                                {
+                                    <button class="btn btn-primary waves-effect width-md waves-light" type="submit"> Update profile </button>
+                                }
+                                else
+                                {
+                                    <button class="btn btn-primary waves-effect width-md waves-light" type="submit"> Register </button>
+                                }
+                            </div>
+
+                            <div class="form-group row mb-0">
+                                <div class="col-sm-12 text-center">
+                                    <a href="/Login/LoginAction/">Already have account?</a>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                    <!-- end card-body -->
+                </div>
+                <!-- end card -->
+                <!-- end row -->
+
+            </div>
+            <!-- end col -->
+        </div>
+        <!-- end row -->
+
+    </div>
+</div>

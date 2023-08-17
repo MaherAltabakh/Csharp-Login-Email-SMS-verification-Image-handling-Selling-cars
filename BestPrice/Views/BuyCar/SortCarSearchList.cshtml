@@ -1,0 +1,165 @@
+﻿<div class="alert alert-success"> <h5> Sorted search result ... </h5> </div>
+
+<div class="row">
+    <div class="col-lg-9">
+        <form action="/BuyCar/SortCarSearchList" method="post">
+            <!-- function to Show/Hide the sort types when sort is selected -->
+            <script type="text/javascript">
+                function ShowHideSortDropdown(sortCarList) {
+                    var selectedValue = sortCarList.options[sortCarList.selectedIndex].value;
+                    var sortTypes = document.getElementById("sortType");
+
+
+                    switch (selectedValue) {
+                        case 'CarMaker':
+                        case 'CarModel':
+                        case 'CarVinNumber':
+                        case 'CarColor':
+                        case 'CarID':
+                        case 'Year':
+                        case 'Odometer':
+                        case 'Price':
+                        case 'ImageNumbers':
+                            {
+                                sortTypes.classList.remove('dis-blind');
+                                break;
+                            }
+                        default:
+                            {
+                                sortTypes.classList.add('dis-blind');
+                                break;
+                            }
+                    }
+                }
+            </script>
+
+            <!-- function to Show/Hide the Reset Submit Sort swhen sort type is selected -->
+            <script type="text/javascript">
+                function ShowHideResetSubmitSort(sortType) {
+                    var selectedValue = sortType.options[sortType.selectedIndex].value;
+                    var submitSorts = document.getElementById("submitSort");
+                    var resetSorts = document.getElementById("resetSort");
+
+                    switch (selectedValue) {
+                        case 'ASC':
+                        case 'DESC':
+
+                            {
+                                submitSorts.classList.remove('dis-blind');
+                                resetSorts.classList.remove('dis-blind');
+                                break;
+                            }
+                        default:
+                            {
+                                submitSorts.classList.add('dis-blind');
+                                resetSorts.classList.add('dis-blind');
+                                break;
+                            }
+                    }
+                }
+            </script>
+
+
+            <lable for="sortCarList">
+                <strong>
+                    Sort by again     &ensp;
+                </strong>
+            </lable>
+            <!-- List of sort filter options-->
+            <select name="sortCarList" id="sortCarList" onchange="ShowHideSortDropdown(this)">
+                <option value="">-- Select filter --</option>
+                <option value="CarID"> Car ID  </option>
+                <option value="CarMaker"> Maker  </option>
+                <option value="CarModel"> Model  </option>
+                <option value="Year"> Year  </option>
+                <option value="Odometer"> Odometer  </option>
+                <option value="CarVinNumber"> Vin number  </option>
+                <option value="CarColor"> Color  </option>
+                <option value="Price"> Price  </option>
+                <option value="ImageNumbers"> Image numbers </option>
+            </select>
+            &ensp;
+
+            <!-- List of sort Type options-->
+            <select name="sortType" id="sortType" class="dis-blind" onchange="ShowHideResetSubmitSort(this)">
+                <option value="">-- Sort type --</option>
+                <option value="ASC"> A -> Z </option>
+                <option value="DESC"> Z -> A </option>
+            </select>
+            &ensp;
+            <input type="submit" name="submitSort" id="submitSort" value="submit" class="dis-blind" />
+            &ensp;
+            <input type="reset" name="resetSort" id="resetSort" value="Reset" class="dis-blind" />
+        </form>
+        <!--============================================ End of Sort options =========================== -->
+    </div>
+
+    <div class="col-lg-3">
+        <p class="search-align "><span class="emphisized-text"> Total cars: </span> <span class="search-result"> @ViewBag.carsCount </span></p>
+    </div>
+</div>
+
+<br />
+
+
+
+
+<table class="table table-striped table-bordered table-hover text-center align-middle">
+    <tr>
+        <td><strong>#</strong></td>
+        <td>  <strong> Car ID         </strong>   </td>
+        <td>  <strong> Car Maker      </strong>   </td>
+        <td>  <strong> Car Model      </strong>   </td>
+        <td>  <strong> Car year       </strong>   </td>
+        <td>  <strong> Odometer (miles)   </strong>   </td>
+        <td>  <strong> Car VIN number </strong>   </td>
+        <td>  <strong> Car color      </strong>   </td>
+        <td>  <strong> Price       </strong>   </td>
+
+        <td>  <strong> Image          </strong></td>
+
+
+
+    </tr>
+
+    @for (int i = 0; i < @ViewBag.carsCount; i++)
+    {
+        <tr>
+            <td> @ViewBag.Numbers[i]</td>
+            <td> @ViewBag.cars[i].CarID       </td>
+            <td> @ViewBag.cars[i].CarMaker    </td>
+            <td> @ViewBag.cars[i].CarModel    </td>
+            <td> @ViewBag.cars[i].Year        </td>
+            <td> @ViewBag.cars[i].Odometer.ToString("#,###,###") </td>
+            <td> @ViewBag.cars[i].CarVinNumber</td>
+            <td> @ViewBag.cars[i].CarColor    </td>
+            <td> $ @ViewBag.cars[i].Price.ToString("#,###,###") </td>
+
+            @{
+                if (ViewBag.imageCount[i] != 0)
+                {
+                    <td class="cell-width-height">
+                        <img src="@("~/UploadedImage/" + @ViewBag.cars[i].ImageName[0])" asp-append-version="true" class="thumbnail-size" />
+                        <a href="/BuyCar/ImageViews?CarID=@ViewBag.cars[i].CarID"> Detials </a>
+                    </td>
+                }
+                else
+                {
+                    <td> No Image Added </td>
+                }
+            }
+        </tr>
+    }
+</table>
+
+
+
+
+
+<div class="search-align"> <a href="/Home/Index">Home</a></div>
+<div class="search-align"><a href="/BuyCar/BuyCarList">Cars list</a></div>
+<div class="search-align"><a href="/BuyCar/SearchCarOptions">Search again</a> </div>
+
+
+
+

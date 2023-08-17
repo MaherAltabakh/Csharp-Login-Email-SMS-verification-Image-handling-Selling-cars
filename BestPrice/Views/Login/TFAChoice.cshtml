@@ -1,0 +1,61 @@
+﻿@{
+    Layout = "_Login";
+}
+
+
+<div class="account-pages my-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6 col-xl-5">
+                <div class="card mt-4">
+                    <div class="card-header bg-img p-5 position-relative">
+                        <div class="bg-overlay"></div>
+                        <h4 class="text-white text-center mb-0">Please choose the Authentication method</h4>
+                    </div>
+                    <div class="card-body p-4 mt-2">
+                        <form action="/Login/TFA/" class="p-3" method="post">
+                            <!-- RADIOS -->
+                                    <div class="card card-border card-primary">
+                                        <div class="card-header border-primary bg-transparent pb-0">
+                                            <h3 class="card-title text-primary">Authentication method</h3>
+                                        </div>
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-sm-6">
+                                                    <div class="radio radio-success">
+                                                        <input type="radio" name="TFAMethod" id="TFAEmail" value="Email" checked="checked">
+                                                        <label for="TFAEmail">
+                                                            Send Email
+                                                        </label>
+                                                    </div>
+                                                    <br>
+                                                    <div class="radio radio-success">
+                                                        <input type="radio" name="TFAMethod" id="TFASMS" value="SMS">
+                                                        <label for="TFASMS">
+                                                            Send Text Message
+                                                        </label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                            <div class="form-group text-center mt-5 mb-4">
+                                <button class="btn btn-primary waves-effect width-md waves-light" type="submit"> Send Code </button>
+                            </div>
+                        </form>
+
+                    </div>
+                    <!-- end card-body -->
+                </div>
+                <!-- end card -->
+                <!-- end row -->
+
+            </div>
+            <!-- end col -->
+        </div>
+        <!-- end row -->
+
+    </div>
+</div>
+

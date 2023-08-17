@@ -1,0 +1,77 @@
+﻿@{
+    Layout = "_Login";
+}
+
+@if (ViewBag.TFAEmailNotSentError != null)
+{
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <div class="row">
+        <div class=" col-md-5"></div>
+        <div class="alert alert-danger col-md-2">
+            Please try again, We couldn not send the verification email
+        </div>
+    </div>
+}
+
+else
+{
+<div class="account-pages my-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6 col-xl-5">
+                <div class="card mt-4">
+                    <div class="card-header bg-img p-5 position-relative">
+                        <div class="bg-overlay"></div>
+                        <h4 class="text-white text-center mb-0">Enter your verification code</h4>
+                    </div>
+                    <div class="card-body p-4 mt-2">
+                            <form action="/Login/TFAValidation/" method="post" class="p-3">
+                                @if (ViewBag.TFANotMatch != null)
+                            {
+                                <div class="alert alert-danger" role="alert">
+                                        @ViewBag.TFANotMatch
+                                </div>
+                            }
+                            <div class="form-group mb-3">
+                                    <strong>Secure verification code <font color="red">*</font></strong><br>
+                                <input class="form-control" type="text" required="" placeholder="Verification Code" name="Code" id="Code">
+                            </div>
+
+                            <div class="alert alert-info" role="alert">
+                                <!-- Display the countdown timer in an element -->
+                                <h5>This Code is valide for 2 minutes</h5>
+                            </div>
+
+                            <div class="form-group text-center mt-5 mb-4">
+                                <button class="btn btn-primary waves-effect width-md waves-light" type="submit"> Log In </button>
+                            </div>
+
+                            <div class="form-group row mb-0">
+                                <div class="col-sm-7">
+                                </div>
+                                <div class="col-sm-5 text-right">
+                                    <a href="/Login/Login/">Resend Code</a>
+                                </div>
+                            </div>
+                        </form>
+
+                    </div>
+                    <!-- end card-body -->
+                </div>
+                <!-- end card -->
+                <!-- end row -->
+
+            </div>
+            <!-- end col -->
+        </div>
+        <!-- end row -->
+
+    </div>
+</div>
+}

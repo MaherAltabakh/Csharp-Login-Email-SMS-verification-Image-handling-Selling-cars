@@ -1,0 +1,1634 @@
+﻿
+<form action="/BuyCar/SearchCarResult" method="post">
+
+    <!--------------------------------------Begin of 1st Line with checkbox --------------------------------------------------------->
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown1(searchFilter1) {
+            var selectedValue1 = searchFilter1.options[searchFilter1.selectedIndex].value;
+            var txtsearchFilters1 = document.getElementById("txtsearchFilter1");
+            var numericComparators1 = document.getElementById("numericComparator1");
+            var txtsearchFiltersBetween1 = document.getElementById("txtsearchFilterBetween1");
+            var chkcheckbox1 = document.getElementById("chkAddFilter1");
+            var labelchkAddFilter1 = document.getElementById("labelchkAddFilter1");
+
+            switch (selectedValue1) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters1.classList.remove('dis-blind');
+                        numericComparators1.classList.add('dis-blind');
+                        txtsearchFiltersBetween1.classList.add('dis-blind');
+                        chkcheckbox1.classList.remove('dis-blind');
+                        labelchkAddFilter1.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters1.classList.add('dis-blind');
+                        numericComparators1.classList.remove('dis-blind');
+                        txtsearchFiltersBetween1.classList.add('dis-blind');
+                        chkcheckbox1.classList.add('dis-blind');
+                        labelchkAddFilter1.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators1.classList.add('dis-blind');
+                        txtsearchFilters1.classList.add('dis-blind');
+                        txtsearchFiltersBetween1.classList.add('dis-blind');
+                        chkcheckbox1.classList.add('dis-blind');
+                        labelchkAddFilter1.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox1(numericComparator1) {
+            var selectedValue1 = numericComparator1.options[numericComparator1.selectedIndex].value;
+            var txtsearchFilters1 = document.getElementById("txtsearchFilter1");
+            var txtsearchFiltersBetween1 = document.getElementById("txtsearchFilterBetween1");
+            var chkcheckbox1 = document.getElementById("chkAddFilter1");
+            var labelchkAddFilter1 = document.getElementById("labelchkAddFilter1");
+
+            switch (selectedValue1) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters1.classList.remove('dis-blind');
+                        txtsearchFiltersBetween1.classList.add('dis-blind');
+                        chkcheckbox1.classList.remove('dis-blind');
+                        labelchkAddFilter1.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters1.classList.remove('dis-blind');
+                        txtsearchFiltersBetween1.classList.remove('dis-blind');
+                        chkcheckbox1.classList.remove('dis-blind');
+                        labelchkAddFilter1.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters1.classList.add('dis-blind');
+                        txtsearchFiltersBetween1.classList.add('dis-blind');
+                        chkcheckbox1.classList.add('dis-blind');
+                        labelchkAddFilter1.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <label for="searchFilter1"> Select search filter: &ensp;</label>
+    <select name="searchFilter1" id="searchFilter1" onchange="ShowHideTextBoxOrDropdown1(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator1" id="numericComparator1" class="dis-blind" onchange="ShowHideOneOrTwoTextBox1(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter1" id="txtsearchFilter1" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween1" id="txtsearchFilterBetween1" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter1" id="chkAddFilter1" class="dis-blind" value="AddFilter1" onclick="ShowHideSearchOperator1(this)" />
+    <label for="chkAddFilter1" name="labelchkAddFilter1" id="labelchkAddFilter1" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator1(chkAddFilter1) {
+            var addFilters1 = document.getElementById("searchOperator2");
+            if (chkAddFilter1.checked)
+                addFilters1.classList.remove('dis-blind');
+            else
+                addFilters1.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 1st Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 2nd Line with checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator2" id="searchOperator2" class="dis-blind" onchange="ShowHideSearchFilter2(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter2(searchOperator2) {
+            var selectedValue2 = searchOperator2.options[searchOperator2.selectedIndex].value;
+            var searchFilters2 = document.getElementById("searchFilter2");
+
+            switch (selectedValue2) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters2.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters2.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown2(searchFilter2) {
+            var selectedValue2 = searchFilter2.options[searchFilter2.selectedIndex].value;
+            var txtsearchFilters2 = document.getElementById("txtsearchFilter2");
+            var numericComparators2 = document.getElementById("numericComparator2");
+            var txtsearchFiltersBetween2 = document.getElementById("txtsearchFilterBetween2");
+            var chkcheckbox2 = document.getElementById("chkAddFilter2");
+            var labelchkAddFilter2 = document.getElementById("labelchkAddFilter2");
+
+            switch (selectedValue2) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters2.classList.remove('dis-blind');
+                        numericComparators2.classList.add('dis-blind');
+                        txtsearchFiltersBetween2.classList.add('dis-blind');
+                        chkcheckbox2.classList.remove('dis-blind');
+                        labelchkAddFilter2.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters2.classList.add('dis-blind');
+                        numericComparators2.classList.remove('dis-blind');
+                        txtsearchFiltersBetween2.classList.add('dis-blind');
+                        chkcheckbox2.classList.add('dis-blind');
+                        labelchkAddFilter2.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators2.classList.add('dis-blind');
+                        txtsearchFilters2.classList.add('dis-blind');
+                        txtsearchFiltersBetween2.classList.add('dis-blind');
+                        chkcheckbox2.classList.add('dis-blind');
+                        labelchkAddFilter2.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox2(numericComparator2) {
+            var selectedValue2 = numericComparator2.options[numericComparator2.selectedIndex].value;
+            var txtsearchFilters2 = document.getElementById("txtsearchFilter2");
+            var txtsearchFiltersBetween2 = document.getElementById("txtsearchFilterBetween2");
+            var chkcheckbox2 = document.getElementById("chkAddFilter2");
+            var labelchkAddFilter2 = document.getElementById("labelchkAddFilter2");
+
+            switch (selectedValue2) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters2.classList.remove('dis-blind');
+                        txtsearchFiltersBetween2.classList.add('dis-blind');
+                        chkcheckbox2.classList.remove('dis-blind');
+                        labelchkAddFilter2.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters2.classList.remove('dis-blind');
+                        txtsearchFiltersBetween2.classList.remove('dis-blind');
+                        chkcheckbox2.classList.remove('dis-blind');
+                        labelchkAddFilter2.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters2.classList.add('dis-blind');
+                        txtsearchFiltersBetween2.classList.add('dis-blind');
+                        chkcheckbox2.classList.add('dis-blind');
+                        labelchkAddFilter2.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter2" id="searchFilter2" class="dis-blind" onchange="ShowHideTextBoxOrDropdown2(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator2" id="numericComparator2" class="dis-blind" onchange="ShowHideOneOrTwoTextBox2(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter2" id="txtsearchFilter2" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween2" id="txtsearchFilterBetween2" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter2" id="chkAddFilter2" class="dis-blind" value="AddFilter2" onclick="ShowHideSearchOperator2(this)" />
+    <label for="chkAddFilter2" name="labelchkAddFilter2" id="labelchkAddFilter2" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator2(chkAddFilter2) {
+            var addFilters2 = document.getElementById("searchOperator3");
+            if (chkAddFilter2.checked)
+                addFilters2.classList.remove('dis-blind');
+            else
+                addFilters2.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 2st Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 3rd Line with checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator3" id="searchOperator3" class="dis-blind" onchange="ShowHideSearchFilter3(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter3(searchOperator3) {
+            var selectedValue3 = searchOperator3.options[searchOperator3.selectedIndex].value;
+            var searchFilters3 = document.getElementById("searchFilter3");
+
+            switch (selectedValue3) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters3.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters3.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown3(searchFilter3) {
+            var selectedValue3 = searchFilter3.options[searchFilter3.selectedIndex].value;
+            var txtsearchFilters3 = document.getElementById("txtsearchFilter3");
+            var numericComparators3 = document.getElementById("numericComparator3");
+            var txtsearchFiltersBetween3 = document.getElementById("txtsearchFilterBetween3");
+            var chkcheckbox3 = document.getElementById("chkAddFilter3");
+            var labelchkAddFilter3 = document.getElementById("labelchkAddFilter3");
+
+            switch (selectedValue3) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters3.classList.remove('dis-blind');
+                        numericComparators3.classList.add('dis-blind');
+                        txtsearchFiltersBetween3.classList.add('dis-blind');
+                        chkcheckbox3.classList.remove('dis-blind');
+                        labelchkAddFilter3.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters3.classList.add('dis-blind');
+                        numericComparators3.classList.remove('dis-blind');
+                        txtsearchFiltersBetween3.classList.add('dis-blind');
+                        chkcheckbox3.classList.add('dis-blind');
+                        labelchkAddFilter3.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators3.classList.add('dis-blind');
+                        txtsearchFilters3.classList.add('dis-blind');
+                        txtsearchFiltersBetween3.classList.add('dis-blind');
+                        chkcheckbox3.classList.add('dis-blind');
+                        labelchkAddFilter3.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox3(numericComparator3) {
+            var selectedValue3 = numericComparator3.options[numericComparator3.selectedIndex].value;
+            var txtsearchFilters3 = document.getElementById("txtsearchFilter3");
+            var txtsearchFiltersBetween3 = document.getElementById("txtsearchFilterBetween3");
+            var chkcheckbox3 = document.getElementById("chkAddFilter3");
+            var labelchkAddFilter3 = document.getElementById("labelchkAddFilter3");
+
+            switch (selectedValue3) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters3.classList.remove('dis-blind');
+                        txtsearchFiltersBetween3.classList.add('dis-blind');
+                        chkcheckbox3.classList.remove('dis-blind');
+                        labelchkAddFilter3.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters3.classList.remove('dis-blind');
+                        txtsearchFiltersBetween3.classList.remove('dis-blind');
+                        chkcheckbox3.classList.remove('dis-blind');
+                        labelchkAddFilter3.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters3.classList.add('dis-blind');
+                        txtsearchFiltersBetween3.classList.add('dis-blind');
+                        chkcheckbox3.classList.add('dis-blind');
+                        labelchkAddFilter3.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter3" id="searchFilter3" class="dis-blind" onchange="ShowHideTextBoxOrDropdown3(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator3" id="numericComparator3" class="dis-blind" onchange="ShowHideOneOrTwoTextBox3(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter3" id="txtsearchFilter3" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween3" id="txtsearchFilterBetween3" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter3" id="chkAddFilter3" class="dis-blind" value="AddFilter3" onclick="ShowHideSearchOperator3(this)" />
+    <label for="chkAddFilter3" name="labelchkAddFilter3" id="labelchkAddFilter3" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator3(chkAddFilter3) {
+            var addFilters3 = document.getElementById("searchOperator4");
+            if (chkAddFilter3.checked)
+                addFilters3.classList.remove('dis-blind');
+            else
+                addFilters3.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 3rd Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 4th Line with checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator4" id="searchOperator4" class="dis-blind" onchange="ShowHideSearchFilter4(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter4(searchOperator4) {
+            var selectedValue4 = searchOperator4.options[searchOperator4.selectedIndex].value;
+            var searchFilters4 = document.getElementById("searchFilter4");
+
+            switch (selectedValue4) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters4.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters4.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown4(searchFilter4) {
+            var selectedValue4 = searchFilter4.options[searchFilter4.selectedIndex].value;
+            var txtsearchFilters4 = document.getElementById("txtsearchFilter4");
+            var numericComparators4 = document.getElementById("numericComparator4");
+            var txtsearchFiltersBetween4 = document.getElementById("txtsearchFilterBetween4");
+            var chkcheckbox4 = document.getElementById("chkAddFilter4");
+            var labelchkAddFilter4 = document.getElementById("labelchkAddFilter4");
+
+            switch (selectedValue4) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters4.classList.remove('dis-blind');
+                        numericComparators4.classList.add('dis-blind');
+                        txtsearchFiltersBetween4.classList.add('dis-blind');
+                        chkcheckbox4.classList.remove('dis-blind');
+                        labelchkAddFilter4.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters4.classList.add('dis-blind');
+                        numericComparators4.classList.remove('dis-blind');
+                        txtsearchFiltersBetween4.classList.add('dis-blind');
+                        chkcheckbox4.classList.add('dis-blind');
+                        labelchkAddFilter4.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators4.classList.add('dis-blind');
+                        txtsearchFilters4.classList.add('dis-blind');
+                        txtsearchFiltersBetween4.classList.add('dis-blind');
+                        chkcheckbox4.classList.add('dis-blind');
+                        labelchkAddFilter4.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox4(numericComparator4) {
+            var selectedValue4 = numericComparator4.options[numericComparator4.selectedIndex].value;
+            var txtsearchFilters4 = document.getElementById("txtsearchFilter4");
+            var txtsearchFiltersBetween4 = document.getElementById("txtsearchFilterBetween4");
+            var chkcheckbox4 = document.getElementById("chkAddFilter4");
+            var labelchkAddFilter4 = document.getElementById("labelchkAddFilter4");
+
+            switch (selectedValue4) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters4.classList.remove('dis-blind');
+                        txtsearchFiltersBetween4.classList.add('dis-blind');
+                        chkcheckbox4.classList.remove('dis-blind');
+                        labelchkAddFilter4.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters4.classList.remove('dis-blind');
+                        txtsearchFiltersBetween4.classList.remove('dis-blind');
+                        chkcheckbox4.classList.remove('dis-blind');
+                        labelchkAddFilter4.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters4.classList.add('dis-blind');
+                        txtsearchFiltersBetween4.classList.add('dis-blind');
+                        chkcheckbox4.classList.add('dis-blind');
+                        labelchkAddFilter4.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter4" id="searchFilter4" class="dis-blind" onchange="ShowHideTextBoxOrDropdown4(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator4" id="numericComparator4" class="dis-blind" onchange="ShowHideOneOrTwoTextBox4(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter4" id="txtsearchFilter4" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween4" id="txtsearchFilterBetween4" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter4" id="chkAddFilter4" class="dis-blind" value="AddFilter4" onclick="ShowHideSearchOperator4(this)" />
+    <label for="chkAddFilter4" name="labelchkAddFilter4" id="labelchkAddFilter4" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator4(chkAddFilter4) {
+            var addFilters4 = document.getElementById("searchOperator5");
+            if (chkAddFilter4.checked)
+                addFilters4.classList.remove('dis-blind');
+            else
+                addFilters4.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 4th Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 5th Line with checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator5" id="searchOperator5" class="dis-blind" onchange="ShowHideSearchFilter5(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter5(searchOperator5) {
+            var selectedValue5 = searchOperator5.options[searchOperator5.selectedIndex].value;
+            var searchFilters5 = document.getElementById("searchFilter5");
+
+            switch (selectedValue5) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters5.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters5.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown5(searchFilter5) {
+            var selectedValue5 = searchFilter5.options[searchFilter5.selectedIndex].value;
+            var txtsearchFilters5 = document.getElementById("txtsearchFilter5");
+            var numericComparators5 = document.getElementById("numericComparator5");
+            var txtsearchFiltersBetween5 = document.getElementById("txtsearchFilterBetween5");
+            var chkcheckbox5 = document.getElementById("chkAddFilter5");
+            var labelchkAddFilter5 = document.getElementById("labelchkAddFilter5");
+
+            switch (selectedValue5) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters5.classList.remove('dis-blind');
+                        numericComparators5.classList.add('dis-blind');
+                        txtsearchFiltersBetween5.classList.add('dis-blind');
+                        chkcheckbox5.classList.remove('dis-blind');
+                        labelchkAddFilter5.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters5.classList.add('dis-blind');
+                        numericComparators5.classList.remove('dis-blind');
+                        txtsearchFiltersBetween5.classList.add('dis-blind');
+                        chkcheckbox5.classList.add('dis-blind');
+                        labelchkAddFilter5.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators5.classList.add('dis-blind');
+                        txtsearchFilters5.classList.add('dis-blind');
+                        txtsearchFiltersBetween5.classList.add('dis-blind');
+                        chkcheckbox5.classList.add('dis-blind');
+                        labelchkAddFilter5.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox5(numericComparator5) {
+            var selectedValue5 = numericComparator5.options[numericComparator5.selectedIndex].value;
+            var txtsearchFilters5 = document.getElementById("txtsearchFilter5");
+            var txtsearchFiltersBetween5 = document.getElementById("txtsearchFilterBetween5");
+            var chkcheckbox5 = document.getElementById("chkAddFilter5");
+            var labelchkAddFilter5 = document.getElementById("labelchkAddFilter5");
+
+            switch (selectedValue5) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters5.classList.remove('dis-blind');
+                        txtsearchFiltersBetween5.classList.add('dis-blind');
+                        chkcheckbox5.classList.remove('dis-blind');
+                        labelchkAddFilter5.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters5.classList.remove('dis-blind');
+                        txtsearchFiltersBetween5.classList.remove('dis-blind');
+                        chkcheckbox5.classList.remove('dis-blind');
+                        labelchkAddFilter5.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters5.classList.add('dis-blind');
+                        txtsearchFiltersBetween5.classList.add('dis-blind');
+                        chkcheckbox5.classList.add('dis-blind');
+                        labelchkAddFilter5.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter5" id="searchFilter5" class="dis-blind" onchange="ShowHideTextBoxOrDropdown5(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator5" id="numericComparator5" class="dis-blind" onchange="ShowHideOneOrTwoTextBox5(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter5" id="txtsearchFilter5" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween5" id="txtsearchFilterBetween5" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter5" id="chkAddFilter5" class="dis-blind" value="AddFilter5" onclick="ShowHideSearchOperator5(this)" />
+    <label for="chkAddFilter5" name="labelchkAddFilter5" id="labelchkAddFilter5" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator5(chkAddFilter5) {
+            var addFilters5 = document.getElementById("searchOperator6");
+            if (chkAddFilter5.checked)
+                addFilters5.classList.remove('dis-blind');
+            else
+                addFilters5.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 5th Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 6th Line with checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator6" id="searchOperator6" class="dis-blind" onchange="ShowHideSearchFilter6(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter6(searchOperator6) {
+            var selectedValue6 = searchOperator6.options[searchOperator6.selectedIndex].value;
+            var searchFilters6 = document.getElementById("searchFilter6");
+
+            switch (selectedValue6) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters6.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters6.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown6(searchFilter6) {
+            var selectedValue6 = searchFilter6.options[searchFilter6.selectedIndex].value;
+            var txtsearchFilters6 = document.getElementById("txtsearchFilter6");
+            var numericComparators6 = document.getElementById("numericComparator6");
+            var txtsearchFiltersBetween6 = document.getElementById("txtsearchFilterBetween6");
+            var chkcheckbox6 = document.getElementById("chkAddFilter6");
+            var labelchkAddFilter6 = document.getElementById("labelchkAddFilter6");
+
+            switch (selectedValue6) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters6.classList.remove('dis-blind');
+                        numericComparators6.classList.add('dis-blind');
+                        txtsearchFiltersBetween6.classList.add('dis-blind');
+                        chkcheckbox6.classList.remove('dis-blind');
+                        labelchkAddFilter6.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters6.classList.add('dis-blind');
+                        numericComparators6.classList.remove('dis-blind');
+                        txtsearchFiltersBetween6.classList.add('dis-blind');
+                        chkcheckbox6.classList.add('dis-blind');
+                        labelchkAddFilter6.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators6.classList.add('dis-blind');
+                        txtsearchFilters6.classList.add('dis-blind');
+                        txtsearchFiltersBetween6.classList.add('dis-blind');
+                        chkcheckbox6.classList.add('dis-blind');
+                        labelchkAddFilter6.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox6(numericComparator6) {
+            var selectedValue6 = numericComparator6.options[numericComparator6.selectedIndex].value;
+            var txtsearchFilters6 = document.getElementById("txtsearchFilter6");
+            var txtsearchFiltersBetween6 = document.getElementById("txtsearchFilterBetween6");
+            var chkcheckbox6 = document.getElementById("chkAddFilter6");
+            var labelchkAddFilter6 = document.getElementById("labelchkAddFilter6");
+
+            switch (selectedValue6) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters6.classList.remove('dis-blind');
+                        txtsearchFiltersBetween6.classList.add('dis-blind');
+                        chkcheckbox6.classList.remove('dis-blind');
+                        labelchkAddFilter6.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters6.classList.remove('dis-blind');
+                        txtsearchFiltersBetween6.classList.remove('dis-blind');
+                        chkcheckbox6.classList.remove('dis-blind');
+                        labelchkAddFilter6.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters6.classList.add('dis-blind');
+                        txtsearchFiltersBetween6.classList.add('dis-blind');
+                        chkcheckbox6.classList.add('dis-blind');
+                        labelchkAddFilter6.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter6" id="searchFilter6" class="dis-blind" onchange="ShowHideTextBoxOrDropdown6(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator6" id="numericComparator6" class="dis-blind" onchange="ShowHideOneOrTwoTextBox6(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter6" id="txtsearchFilter6" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween6" id="txtsearchFilterBetween6" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter6" id="chkAddFilter6" class="dis-blind" value="AddFilter6" onclick="ShowHideSearchOperator6(this)" />
+    <label for="chkAddFilter6" name="labelchkAddFilter6" id="labelchkAddFilter6" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator6(chkAddFilter6) {
+            var addFilters6 = document.getElementById("searchOperator7");
+            if (chkAddFilter6.checked)
+                addFilters6.classList.remove('dis-blind');
+            else
+                addFilters6.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 6th Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 7th Line with checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator7" id="searchOperator7" class="dis-blind" onchange="ShowHideSearchFilter7(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter7(searchOperator7) {
+            var selectedValue7 = searchOperator7.options[searchOperator7.selectedIndex].value;
+            var searchFilters7 = document.getElementById("searchFilter7");
+
+            switch (selectedValue7) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters7.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters7.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown7(searchFilter7) {
+            var selectedValue7 = searchFilter7.options[searchFilter7.selectedIndex].value;
+            var txtsearchFilters7 = document.getElementById("txtsearchFilter7");
+            var numericComparators7 = document.getElementById("numericComparator7");
+            var txtsearchFiltersBetween7 = document.getElementById("txtsearchFilterBetween7");
+            var chkcheckbox7 = document.getElementById("chkAddFilter7");
+            var labelchkAddFilter7 = document.getElementById("labelchkAddFilter7");
+
+            switch (selectedValue7) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters7.classList.remove('dis-blind');
+                        numericComparators7.classList.add('dis-blind');
+                        txtsearchFiltersBetween7.classList.add('dis-blind');
+                        chkcheckbox7.classList.remove('dis-blind');
+                        labelchkAddFilter7.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters7.classList.add('dis-blind');
+                        numericComparators7.classList.remove('dis-blind');
+                        txtsearchFiltersBetween7.classList.add('dis-blind');
+                        chkcheckbox7.classList.add('dis-blind');
+                        labelchkAddFilter7.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators7.classList.add('dis-blind');
+                        txtsearchFilters7.classList.add('dis-blind');
+                        txtsearchFiltersBetween7.classList.add('dis-blind');
+                        chkcheckbox7.classList.add('dis-blind');
+                        labelchkAddFilter7.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox7(numericComparator7) {
+            var selectedValue7 = numericComparator7.options[numericComparator7.selectedIndex].value;
+            var txtsearchFilters7 = document.getElementById("txtsearchFilter7");
+            var txtsearchFiltersBetween7 = document.getElementById("txtsearchFilterBetween7");
+            var chkcheckbox7 = document.getElementById("chkAddFilter7");
+            var labelchkAddFilter7 = document.getElementById("labelchkAddFilter7");
+
+            switch (selectedValue7) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters7.classList.remove('dis-blind');
+                        txtsearchFiltersBetween7.classList.add('dis-blind');
+                        chkcheckbox7.classList.remove('dis-blind');
+                        labelchkAddFilter7.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters7.classList.remove('dis-blind');
+                        txtsearchFiltersBetween7.classList.remove('dis-blind');
+                        chkcheckbox7.classList.remove('dis-blind');
+                        labelchkAddFilter7.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters7.classList.add('dis-blind');
+                        txtsearchFiltersBetween7.classList.add('dis-blind');
+                        chkcheckbox7.classList.add('dis-blind');
+                        labelchkAddFilter7.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter7" id="searchFilter7" class="dis-blind" onchange="ShowHideTextBoxOrDropdown7(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator7" id="numericComparator7" class="dis-blind" onchange="ShowHideOneOrTwoTextBox7(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter7" id="txtsearchFilter7" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween7" id="txtsearchFilterBetween7" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter7" id="chkAddFilter7" class="dis-blind" value="AddFilter7" onclick="ShowHideSearchOperator7(this)" />
+    <label for="chkAddFilter7" name="labelchkAddFilter7" id="labelchkAddFilter7" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator7(chkAddFilter7) {
+            var addFilters7 = document.getElementById("searchOperator8");
+            if (chkAddFilter7.checked)
+                addFilters7.classList.remove('dis-blind');
+            else
+                addFilters7.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 7th Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 8th Line with checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator8" id="searchOperator8" class="dis-blind" onchange="ShowHideSearchFilter8(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter8(searchOperator8) {
+            var selectedValue8 = searchOperator8.options[searchOperator8.selectedIndex].value;
+            var searchFilters8 = document.getElementById("searchFilter8");
+
+            switch (selectedValue8) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters8.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters8.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown8(searchFilter8) {
+            var selectedValue8 = searchFilter8.options[searchFilter8.selectedIndex].value;
+            var txtsearchFilters8 = document.getElementById("txtsearchFilter8");
+            var numericComparators8 = document.getElementById("numericComparator8");
+            var txtsearchFiltersBetween8 = document.getElementById("txtsearchFilterBetween8");
+            var chkcheckbox8 = document.getElementById("chkAddFilter8");
+            var labelchkAddFilter8 = document.getElementById("labelchkAddFilter8");
+
+            switch (selectedValue8) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters8.classList.remove('dis-blind');
+                        numericComparators8.classList.add('dis-blind');
+                        txtsearchFiltersBetween8.classList.add('dis-blind');
+                        chkcheckbox8.classList.remove('dis-blind');
+                        labelchkAddFilter8.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters8.classList.add('dis-blind');
+                        numericComparators8.classList.remove('dis-blind');
+                        txtsearchFiltersBetween8.classList.add('dis-blind');
+                        chkcheckbox8.classList.add('dis-blind');
+                        labelchkAddFilter8.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators8.classList.add('dis-blind');
+                        txtsearchFilters8.classList.add('dis-blind');
+                        txtsearchFiltersBetween8.classList.add('dis-blind');
+                        chkcheckbox8.classList.add('dis-blind');
+                        labelchkAddFilter8.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox8(numericComparator8) {
+            var selectedValue8 = numericComparator8.options[numericComparator8.selectedIndex].value;
+            var txtsearchFilters8 = document.getElementById("txtsearchFilter8");
+            var txtsearchFiltersBetween8 = document.getElementById("txtsearchFilterBetween8");
+            var chkcheckbox8 = document.getElementById("chkAddFilter8");
+            var labelchkAddFilter8 = document.getElementById("labelchkAddFilter8");
+
+            switch (selectedValue8) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters8.classList.remove('dis-blind');
+                        txtsearchFiltersBetween8.classList.add('dis-blind');
+                        chkcheckbox8.classList.remove('dis-blind');
+                        labelchkAddFilter8.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters8.classList.remove('dis-blind');
+                        txtsearchFiltersBetween8.classList.remove('dis-blind');
+                        chkcheckbox8.classList.remove('dis-blind');
+                        labelchkAddFilter8.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters8.classList.add('dis-blind');
+                        txtsearchFiltersBetween8.classList.add('dis-blind');
+                        chkcheckbox8.classList.add('dis-blind');
+                        labelchkAddFilter8.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter8" id="searchFilter8" class="dis-blind" onchange="ShowHideTextBoxOrDropdown8(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator8" id="numericComparator8" class="dis-blind" onchange="ShowHideOneOrTwoTextBox8(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter8" id="txtsearchFilter8" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween8" id="txtsearchFilterBetween8" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter8" id="chkAddFilter8" class="dis-blind" value="AddFilter8" onclick="ShowHideSearchOperator8(this)" />
+    <label for="chkAddFilter8" name="labelchkAddFilter8" id="labelchkAddFilter8" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator8(chkAddFilter8) {
+            var addFilters8 = document.getElementById("searchOperator9");
+            if (chkAddFilter8.checked)
+                addFilters8.classList.remove('dis-blind');
+            else
+                addFilters8.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 8th Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 9th Line with checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator9" id="searchOperator9" class="dis-blind" onchange="ShowHideSearchFilter9(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter9(searchOperator9) {
+            var selectedValue9 = searchOperator9.options[searchOperator9.selectedIndex].value;
+            var searchFilters9 = document.getElementById("searchFilter9");
+
+            switch (selectedValue9) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters9.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters9.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown9(searchFilter9) {
+            var selectedValue9 = searchFilter9.options[searchFilter9.selectedIndex].value;
+            var txtsearchFilters9 = document.getElementById("txtsearchFilter9");
+            var numericComparators9 = document.getElementById("numericComparator9");
+            var txtsearchFiltersBetween9 = document.getElementById("txtsearchFilterBetween9");
+            var chkcheckbox9 = document.getElementById("chkAddFilter9");
+            var labelchkAddFilter9 = document.getElementById("labelchkAddFilter9");
+
+            switch (selectedValue9) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters9.classList.remove('dis-blind');
+                        numericComparators9.classList.add('dis-blind');
+                        txtsearchFiltersBetween9.classList.add('dis-blind');
+                        chkcheckbox9.classList.remove('dis-blind');
+                        labelchkAddFilter9.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters9.classList.add('dis-blind');
+                        numericComparators9.classList.remove('dis-blind');
+                        txtsearchFiltersBetween9.classList.add('dis-blind');
+                        chkcheckbox9.classList.add('dis-blind');
+                        labelchkAddFilter9.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators9.classList.add('dis-blind');
+                        txtsearchFilters9.classList.add('dis-blind');
+                        txtsearchFiltersBetween9.classList.add('dis-blind');
+                        chkcheckbox9.classList.add('dis-blind');
+                        labelchkAddFilter9.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox9(numericComparator9) {
+            var selectedValue9 = numericComparator9.options[numericComparator9.selectedIndex].value;
+            var txtsearchFilters9 = document.getElementById("txtsearchFilter9");
+            var txtsearchFiltersBetween9 = document.getElementById("txtsearchFilterBetween9");
+            var chkcheckbox9 = document.getElementById("chkAddFilter9");
+            var labelchkAddFilter9 = document.getElementById("labelchkAddFilter9");
+
+            switch (selectedValue9) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters9.classList.remove('dis-blind');
+                        txtsearchFiltersBetween9.classList.add('dis-blind');
+                        chkcheckbox9.classList.remove('dis-blind');
+                        labelchkAddFilter9.classList.remove('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters9.classList.remove('dis-blind');
+                        txtsearchFiltersBetween9.classList.remove('dis-blind');
+                        chkcheckbox9.classList.remove('dis-blind');
+                        labelchkAddFilter9.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters9.classList.add('dis-blind');
+                        txtsearchFiltersBetween9.classList.add('dis-blind');
+                        chkcheckbox9.classList.add('dis-blind');
+                        labelchkAddFilter9.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter9" id="searchFilter9" class="dis-blind" onchange="ShowHideTextBoxOrDropdown9(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator9" id="numericComparator9" class="dis-blind" onchange="ShowHideOneOrTwoTextBox9(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter9" id="txtsearchFilter9" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween9" id="txtsearchFilterBetween9" class="dis-blind" placeholder="Between" />
+    <!-- check box for adding more filters -->
+    <input type="checkbox" name="chkAddFilter9" id="chkAddFilter9" class="dis-blind" value="AddFilter9" onclick="ShowHideSearchOperator9(this)" />
+    <label for="chkAddFilter9" name="labelchkAddFilter9" id="labelchkAddFilter9" class="dis-blind"> Add more filters </label>
+    <br />
+    <br />
+
+    <!-- function to Show/Hide search operator until checkbox is checked -->
+    <script type="text/javascript">
+        function ShowHideSearchOperator9(chkAddFilter9) {
+            var addFilters9 = document.getElementById("searchOperator10");
+            if (chkAddFilter9.checked)
+                addFilters9.classList.remove('dis-blind');
+            else
+                addFilters9.classList.add('dis-blind');
+        }
+    </script>
+    <!--------------------------------------End of the 9th Line with checkbox --------------------------------------------------------->
+    <!--------------------------------------Begin of the 10th Line without checkbox ------------------------------------------------------->
+    <!-- dropdown Logic operators (And/Or) -->
+    <select name="searchOperator10" id="searchOperator10" class="dis-blind" onchange="ShowHideSearchFilter10(this)">
+        <option value="">Select operator</option>
+        <option value="and"> AND </option>
+        <option value="or"> OR </option>
+    </select>
+    &ensp;
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideSearchFilter10(searchOperator10) {
+            var selectedValue10 = searchOperator10.options[searchOperator10.selectedIndex].value;
+            var searchFilters10 = document.getElementById("searchFilter10");
+
+            switch (selectedValue10) {
+                case 'and':
+                case 'or':
+                    {
+                        searchFilters10.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        searchFilters10.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+    <!-- function to Show/Hide everything until one filter is selected -->
+    <script type="text/javascript">
+        function ShowHideTextBoxOrDropdown10(searchFilter10) {
+            var selectedValue10 = searchFilter10.options[searchFilter10.selectedIndex].value;
+            var txtsearchFilters10 = document.getElementById("txtsearchFilter10");
+            var numericComparators10 = document.getElementById("numericComparator10");
+            var txtsearchFiltersBetween10 = document.getElementById("txtsearchFilterBetween10");
+
+            switch (selectedValue10) {
+                case 'CarMaker':
+                case 'CarModel':
+                case 'CarVinNumber':
+                case 'CarColor':
+                    {
+                        txtsearchFilters10.classList.remove('dis-blind');
+                        numericComparators10.classList.add('dis-blind');
+                        txtsearchFiltersBetween10.classList.add('dis-blind');
+                        break;
+                    }
+                case 'CarID':
+                case 'Year':
+                case 'Odometer':
+                case 'Price':
+                    {
+                        txtsearchFilters10.classList.add('dis-blind');
+                        numericComparators10.classList.remove('dis-blind');
+                        txtsearchFiltersBetween10.classList.add('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        numericComparators10.classList.add('dis-blind');
+                        txtsearchFilters10.classList.add('dis-blind');
+                        txtsearchFiltersBetween10.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- function to Show/Hide one/two text boxes for between value and the checkbox -->
+    <script type="text/javascript">
+        function ShowHideOneOrTwoTextBox10(numericComparator10) {
+            var selectedValue10 = numericComparator10.options[numericComparator10.selectedIndex].value;
+            var txtsearchFilters10 = document.getElementById("txtsearchFilter10");
+            var txtsearchFiltersBetween10 = document.getElementById("txtsearchFilterBetween10");
+
+            switch (selectedValue10) {
+                case 'equalTo':
+                case 'greaterThan':
+                case 'lessThan':
+                    {
+                        txtsearchFilters10.classList.remove('dis-blind');
+                        txtsearchFiltersBetween10.classList.add('dis-blind');
+                        break;
+                    }
+                case 'between':
+                    {
+                        txtsearchFilters10.classList.remove('dis-blind');
+                        txtsearchFiltersBetween10.classList.remove('dis-blind');
+                        break;
+                    }
+                default:
+                    {
+                        txtsearchFilters10.classList.add('dis-blind');
+                        txtsearchFiltersBetween10.classList.add('dis-blind');
+                        break;
+                    }
+            }
+        }
+    </script>
+
+
+    <!-- dropdown filter options for search -->
+    <select name="searchFilter10" id="searchFilter10" class="dis-blind" onchange="ShowHideTextBoxOrDropdown10(this)">
+        <option value="">-- Select filter --</option>
+        <option value="CarID"> Car ID  </option>
+        <option value="CarMaker"> Maker  </option>
+        <option value="CarModel"> Model  </option>
+        <option value="Year"> Year  </option>
+        <option value="Odometer"> Odometer  </option>
+        <option value="CarVinNumber"> Vin number  </option>
+        <option value="CarColor"> Color  </option>
+        <option value="Price"> Price  </option>
+    </select>
+    &ensp;
+
+    <!-- dropdown operators for numeric filter search options-->
+    <select name="numericComparator10" id="numericComparator10" class="dis-blind" onchange="ShowHideOneOrTwoTextBox10(this)">
+        <option value="">-- Select --</option>
+        <option value="equalTo"> Equal to </option>
+        <option value="greaterThan"> Greater than  </option>
+        <option value="lessThan"> Less than  </option>
+        <option value="between"> Between  </option>
+    </select>
+    &ensp;
+
+    <!-- string and one int value search Condition (Text Box) -->
+    <input type="text" name="txtsearchFilter10" id="txtsearchFilter10" class="dis-blind" placeholder="Search" />
+    &ensp;
+
+    <!-- Second search Condition (Text Box) when between statement is selected -->
+    <input type="number" name="txtsearchFilterBetween10" id="txtsearchFilterBetween10" class="dis-blind" placeholder="Between" />
+
+    <br />
+    <br />
+    <!--------------------------------------End of the 10th Line without checkbox --------------------------------------------------------->
+
+    <input type="submit" value="Search" />
+    &emsp;
+    <input type="reset" value="Reset" />
+
+</form>
+
+
+

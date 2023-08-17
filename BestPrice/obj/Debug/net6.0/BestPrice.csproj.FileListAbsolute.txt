@@ -1,0 +1,195 @@
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\appsettings.json
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.staticwebassets.runtime.json
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.exe
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.deps.json
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.runtimeconfig.json
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.pdb
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.csproj.AssemblyReference.cache
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.AssemblyInfoInputs.cache
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.AssemblyInfo.cs
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.RazorAssemblyInfo.cache
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.RazorAssemblyInfo.cs
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.BestPrice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.build.BestPrice.props
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BestPrice.props
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BestPrice.props
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\scopedcss\bundle\BestPrice.styles.css
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\scopedcss\projectbundle\BestPrice.bundle.scp.css
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\refint\BestPrice.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.pdb
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.genruntimeconfig.cache
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\ref\BestPrice.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\scopedcss\Views\Shared\_Login.cshtml.rz.scp.css
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Dapper.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.csproj.CopyComplete
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\jose-jwt.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Vonage.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maher\source\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\appsettings.Development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\appsettings.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.staticwebassets.runtime.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.deps.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.runtimeconfig.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\BestPrice.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Dapper.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\jose-jwt.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\System.Text.Json.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\Vonage.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.AssemblyInfoInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.AssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.RazorAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.RazorAssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.BestPrice.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.build.BestPrice.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BestPrice.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BestPrice.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\scopedcss\Views\Shared\_Login.cshtml.rz.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\scopedcss\bundle\BestPrice.styles.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\scopedcss\projectbundle\BestPrice.bundle.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\refint\BestPrice.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\BestPrice.genruntimeconfig.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\BestPrice\BestPrice\obj\Debug\net6.0\ref\BestPrice.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\appsettings.Development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\appsettings.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\BestPrice.staticwebassets.runtime.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\BestPrice.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\BestPrice.deps.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\BestPrice.runtimeconfig.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\BestPrice.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\BestPrice.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Dapper.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\jose-jwt.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\System.ComponentModel.Composition.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\System.Text.Json.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\Vonage.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.AssemblyInfoInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.AssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.RazorAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.RazorAssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.BestPrice.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.build.BestPrice.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BestPrice.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BestPrice.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\scopedcss\Views\Shared\_Login.cshtml.rz.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\scopedcss\bundle\BestPrice.styles.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\scopedcss\projectbundle\BestPrice.bundle.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\refint\BestPrice.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\BestPrice.genruntimeconfig.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\obj\Debug\net6.0\ref\BestPrice.dll

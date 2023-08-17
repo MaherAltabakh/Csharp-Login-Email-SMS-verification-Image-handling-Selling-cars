@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BestPrice
+build_property.RootNamespace = BestPrice
+build_property.ProjectDir = D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\Done\Selling cars - Login Email SMS verification - Image handling\BestPrice
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/AddCarToSell.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXEFkZENhclRvU2VsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/BuyCarList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXEJ1eUNhckxpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXGRlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/EditCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXEVkaXRDYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/EditImage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXEVkaXRJbWFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/ErrorJustInt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXEVycm9ySnVzdEludC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/ErrorRequiredCarAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXEVycm9yUmVxdWlyZWRDYXJBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/ImageViews.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXEltYWdlVmlld3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/RemoveCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXFJlbW92ZUNhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/RemoveCarConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXFJlbW92ZUNhckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/SaveUpdatedCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXFNhdmVVcGRhdGVkQ2FyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/SearchCarOptions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXFNlYXJjaENhck9wdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/SearchCarResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXFNlYXJjaENhclJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/SellCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXFNlbGxDYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/SortCarList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXFNvcnRDYXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/BuyCar/SortCarSearchList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV5Q2FyXFNvcnRDYXJTZWFyY2hMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Login/ConfirmDeletAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ29uZmlybURlbGV0QWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Login/CreateUpdateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3JlYXRlVXBkYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Login/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Login/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Login/SetNewPAssword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cU2V0TmV3UEFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Login/TFA.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVEZBLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Login/TFAChoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVEZBQ2hvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l67826bn5n
+
+[D:/IT Learning/Full Stack Web Developer/Project/2- Backend - C\#/Done/Selling cars - Login Email SMS verification - Image handling/BestPrice/Views/Shared/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-izzm8xogvf
